@@ -1,0 +1,5 @@
+print('get the nails')
+print('put the nails on the wood')
+print('grab the hammer')
+print('hold the nails')
+print('use the hammer')
